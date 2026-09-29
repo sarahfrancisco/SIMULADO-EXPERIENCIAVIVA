@@ -1,5 +1,5 @@
 <?php
-    class Usuario{
+    class Atividade{
         private $idAtividade;
         private $titulo;
         private $descricao;
